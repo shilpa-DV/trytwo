@@ -1,2 +1,1 @@
-# trytwo
-this is second repo created for testing
+# This is a test repo 
